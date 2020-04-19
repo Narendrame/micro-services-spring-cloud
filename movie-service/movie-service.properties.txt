@@ -1,0 +1,3 @@
+movie.service.name = "Default Movie from"
+movie.service.rating = "1.5"
+movie.service.language = "English"

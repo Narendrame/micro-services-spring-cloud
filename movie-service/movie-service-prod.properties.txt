@@ -1,0 +1,2 @@
+movie.service.name = "New Movie from prod"
+movie.service.rating = "2.5"
